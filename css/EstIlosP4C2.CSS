@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(92, 189, 100);
+    margin: 0 10px 0 10px;
+    
+}
+header{
+    color: rgb(76, 72, 72);
+    height: 100px;
+    padding: 1em;
+}
+
+h2{
+    color: rgb(75, 69, 69);
+    text-align: left;
+    padding: 10px;
+    margin: 1;
+}
+select{
+    background-color: rgb(79, 152, 83);
+    font-size: 17px;
+    border-radius: .4em;
+}
+
+
+#content{
+    background-color: rgb(83, 153, 83);
+    margin: 1em auto;
+    width: min(55em, 60%);
+    padding: 10em;
+
+}
+
+#btnLlenar{
+    font-size: 17.5px;
+    color: rgb(41, 151, 88);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    border-radius: .4em;
+}
+
+#btnLlenar:hover{
+    cursor: pointer;
+    background-color: white;
+}
+
+.letras{
+    font-size: 20px;
+    text-align: left;
+    text-decoration: solid;
+    font-weight: 700;
+    font-family:'Times New Roman', Times, serif
+}
